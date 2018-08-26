@@ -1,4 +1,6 @@
 # iMaterialist-Image-Recognition
+  Link: https://www.kaggle.com/c/imaterialist-challenge-furniture-2018
+
 
 Goal: Automatic Product Recognition for Home Goods and Furniture Images
 
@@ -11,6 +13,8 @@ Dataset:
   - Number of Test Images: 12,800
   - Min images in a class: 332
   - Max images in a class: 3996
+  - https://www.kaggle.com/andrewrib/visualizing-imaterialist-data
+  
   
 Model Architecture:
   - Each layer of the convnet has multiple convolution filters in parallel. 
